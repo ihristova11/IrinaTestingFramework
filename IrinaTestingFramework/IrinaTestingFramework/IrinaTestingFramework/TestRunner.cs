@@ -34,14 +34,21 @@ namespace IrinaTestingFramework
                             testMethod.Invoke(instanceOfTestClass, null);
                             testResult.Success = true;
                         }
-                        catch
+                        catch (TestException e)
                         {
                             testResult.Success = false;
+                            testResult.ErrorMessage = $"Test exception: {e.Message}";
                         }
-
+                        catch (Exception ex)
+                        {
+                            testResult.Success = false;
+                            testResult.ErrorMessage = $"{ex.GetType().Name}:{ex.Message}";
+                        }
                     }
                 }
             }
+
+            return listOfTestResults;
         }
     }
 }

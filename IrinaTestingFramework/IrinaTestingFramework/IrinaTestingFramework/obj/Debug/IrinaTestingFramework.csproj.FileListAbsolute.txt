@@ -1,0 +1,6 @@
+C:\Users\hrist\OneDrive\Документи\GitHub\IrinaTestingFramework\IrinaTestingFramework\IrinaTestingFramework\obj\Debug\IrinaTestingFramework.csprojResolveAssemblyReference.cache
+C:\Users\hrist\OneDrive\Документи\GitHub\IrinaTestingFramework\IrinaTestingFramework\IrinaTestingFramework\obj\Debug\IrinaTestingFramework.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Документи\GitHub\IrinaTestingFramework\IrinaTestingFramework\IrinaTestingFramework\bin\Debug\IrinaTestingFramework.dll
+C:\Users\hrist\OneDrive\Документи\GitHub\IrinaTestingFramework\IrinaTestingFramework\IrinaTestingFramework\bin\Debug\IrinaTestingFramework.pdb
+C:\Users\hrist\OneDrive\Документи\GitHub\IrinaTestingFramework\IrinaTestingFramework\IrinaTestingFramework\obj\Debug\IrinaTestingFramework.dll
+C:\Users\hrist\OneDrive\Документи\GitHub\IrinaTestingFramework\IrinaTestingFramework\IrinaTestingFramework\obj\Debug\IrinaTestingFramework.pdb
