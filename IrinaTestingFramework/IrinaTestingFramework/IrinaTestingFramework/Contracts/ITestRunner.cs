@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace IrinaTestingFramework
+namespace IrinaTestingFramework.Contracts
 {
     public interface ITestRunner
     {

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using IrinaTestingFramework.Contracts;
 
 namespace IrinaTestingFramework
 {
@@ -44,6 +45,7 @@ namespace IrinaTestingFramework
                             testResult.Success = false;
                             testResult.ErrorMessage = $"{ex.GetType().Name}:{ex.Message}";
                         }
+                        listOfTestResults.Add(testResult);
                     }
                 }
             }

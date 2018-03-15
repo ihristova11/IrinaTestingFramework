@@ -40,7 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ITestRunner.cs" />
+    <Compile Include="Assert.cs" />
+    <Compile Include="Contracts\ITestRunner.cs" />
     <Compile Include="Test.cs" />
     <Compile Include="TestClassAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
